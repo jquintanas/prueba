@@ -1,0 +1,5 @@
+commit c5fcd5001dcb87285b91553ae3a6c09a2479feaa
+Author: Jonathan <jiquinta@espol.edu.ec>
+Date:   Sat May 6 21:31:56 2017 -0500
+
+    primer commit
